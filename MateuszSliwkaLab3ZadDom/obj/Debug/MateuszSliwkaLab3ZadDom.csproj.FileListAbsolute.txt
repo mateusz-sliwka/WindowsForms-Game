@@ -1,0 +1,17 @@
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab2ZadDom\obj\Debug\MateuszSliwkaLab3ZadDom.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab2ZadDom\obj\Debug\MateuszSliwkaLab1ZadDom.FormMain.resources
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab2ZadDom\obj\Debug\MateuszSliwkaLab3ZadDom.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab2ZadDom\obj\Debug\MateuszSliwkaLab3ZadDom.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\obj\Debug\MateuszSliwkaLab3ZadDom.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\obj\Debug\MateuszSliwkaLab1ZadDom.FormMain.resources
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\obj\Debug\MateuszSliwkaLab3ZadDom.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\obj\Debug\MateuszSliwkaLab3ZadDom.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\bin\Debug\Resources\point.wav
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\bin\Debug\Resources\ok.wav
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\bin\Debug\Resources\start.wav
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\bin\Debug\Resources\wtf.wav
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\bin\Debug\MateuszSliwkaLab3ZadDom.exe.config
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\bin\Debug\MateuszSliwkaLab3ZadDom.exe
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\bin\Debug\MateuszSliwkaLab3ZadDom.pdb
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\obj\Debug\MateuszSliwkaLab3ZadDom.exe
+C:\Users\Mateusz\Desktop\Kredek\mateusz_sliwka\MateuszSliwkaLab3ZadDom\MateuszSliwkaLab3ZadDom\obj\Debug\MateuszSliwkaLab3ZadDom.pdb
